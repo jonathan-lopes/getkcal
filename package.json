@@ -1,0 +1,24 @@
+{
+  "name": "getkcal",
+  "version": "1.0.0",
+  "description": "Estes são os arquivos iniciais do projeto **getkcal** disponível no YouTube.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathan-lopes/getkcal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathan-lopes/getkcal/issues"
+  },
+  "homepage": "https://github.com/jonathan-lopes/getkcal#readme",
+  "devDependencies": {
+    "serve": "^12.0.0"
+  }
+}

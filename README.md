@@ -1,6 +1,17 @@
-# getkcal
+<img src="./assets/images/logo.svg">
 
-Estes são os arquivos iniciais do projeto **getkcal** disponível no YouTube.
+# Tecnologias utilizadas # 
+
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [JS](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+
+
+# Sobre #
+
+Aplicação que realiza o cálculo da [Taxa Metabolica Basal](https://pt.wikipedia.org/wiki/Metabolismo_basal). Desenvolvida seguindo as orientações do [Mateus Silva](https://github.com/maateusilva/)  disponível no YouTube neste [link.](https://www.youtube.com/watch?v=yiDq9wUiUjc)
+
+---
 
 ## Instalação
 
@@ -22,3 +33,5 @@ Para executá-la é muito simples, basta rodar os seguintes comandos:
   $ npm install serve -D # instalando o serve como dependência de desenvolvimento
   $ npx serve . # rodando o servidor node
 ```
+
+###### tags: `CSS` `HTML` `JS` `NodeJS` 
