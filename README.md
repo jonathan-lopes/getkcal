@@ -1,17 +1,18 @@
 <img src="./assets/images/logo.svg">
 
+# Sobre #
+
+Aplicação que realiza o cálculo da [Taxa Metabolica Basal](https://pt.wikipedia.org/wiki/Metabolismo_basal). Desenvolvida seguindo as orientações do [Mateus Silva](https://github.com/maateusilva/)  disponível no YouTube neste [link.](https://www.youtube.com/watch?v=yiDq9wUiUjc)
+
+Disponivel tambem no meu [GitHub Pages](https://jonathan-lopes.github.io/getkcal/)
+
+---
+
 # Tecnologias utilizadas # 
 
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [JS](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-
-
-# Sobre #
-
-Aplicação que realiza o cálculo da [Taxa Metabolica Basal](https://pt.wikipedia.org/wiki/Metabolismo_basal). Desenvolvida seguindo as orientações do [Mateus Silva](https://github.com/maateusilva/)  disponível no YouTube neste [link.](https://www.youtube.com/watch?v=yiDq9wUiUjc)
-
----
 
 ## Instalação
 
